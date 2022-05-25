@@ -48,5 +48,5 @@ I tried two different models:
 
 # Model performance
 
-Random Forest:NMAE = -17.11 <br>
+Random Forest:MAE = 13.69 <br>
 Lasso Regression:NMAE = -22.86
