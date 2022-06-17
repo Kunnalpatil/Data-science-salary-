@@ -198,4 +198,4 @@ level[0],level[1],level[2]
 model = pickle.load(open('Salary_predictions.pkl', 'rb'))
 if st.button("Predict"):
     pred = model.predict(data)[0]
-    st.success(f"The estimated salary is ${round(pred,2)}")
+    st.success(f"The estimated salary is ${round(pred,2)}k\year")
