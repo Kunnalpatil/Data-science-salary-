@@ -4,7 +4,7 @@
 * Engineered features from the text of each job description to quantify the salaries <br>
 companies put on python, excel, aws, and spark.
 * Optimized Lasso Regession and RandomForestRegressors using RandomsearchCV to reach the best model.
-
+* Finally deployed the project on heruko.
 # Packages used: 
  pandas, numpy, sklearn, matplotlib, seaborn,pickle.
  
